@@ -1,0 +1,1 @@
+This repository implements a Naïve Bayes classifier for identifying radar tracks as birds or aircrafts. It includes methods for calculating class probabilities based on velocity data and transition probabilities between classes. The classifier is designed to handle NaN values and adjust initial probabilities as more data is processed.
